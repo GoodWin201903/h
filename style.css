@@ -1,0 +1,68 @@
+body{
+	background-image: url("/photos/bg.png");
+	background-size: cover;
+}
+.mas{
+    margin-top: 10px;
+}
+#btn-desc{
+    vertical-align: bottom;
+    border: 0px;
+    padding: 5px 15px;
+    font-size: 20px;
+    border-radius: 30px;
+	color: #ffffff;
+	background-color: #1d84f3eb;
+
+}
+#btn{
+    border: 0px;
+    padding: 5px 15px;
+    font-size: 20px;
+    border-radius: 30px;
+    color: #ffffff;
+    background-color: #1d84f3eb;
+
+}
+td, th {
+    font-size: 22px;
+    }
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #ffffff;
+    background-color:#88338a45;
+}
+.table .thead-dark th{
+background-color: #763c82b0;
+border-color: #0000004a;
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #0000004a;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.des{font-size: 25px}
+.gen{font-size: 23px}
+.des{font-size: 25px}
+ hr {
+    border: none; /* Убираем границу */
+    background-color: #000000bd; /* Цвет линии */
+    height: 2px; /* Толщина линии */
+}
+[type=search] {
+    vertical-align: bottom;
+    border: 0px;
+    padding: 5px 15px;
+    font-size: 15px;
+    border-radius: 30px;
+    color:black;
+    background-color: #ffffff;
+    -webkit-appearance: none;
+}
+[type=button], [type=reset], [type=submit]{
+    color:black;
+     background-color: #ffffff;
+}
